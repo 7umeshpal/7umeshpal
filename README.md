@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umeshkumar Pal
 - 👀 I’m interested in Coding and Creating new product & experiment.
-- 🌱 I’m currently learning HTML,CSS & Vanilla Javascript.
+- 🌱 I’m currently learning HTML,CSS, Java, DSA & Vanilla Javascript.
 - 💞️ I’m looking to collaborate on Full stack development projects
 - 📫 How to reach me on Github-7umeshpal
 - 😄 Pronouns: He/him
